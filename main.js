@@ -1,4 +1,4 @@
-export const helloGit = () => "Hello Git asdadadsadasd"
+export const helloGit = () => "Hello Git from develop"
 
 export const helloChuchu = () => "Hello Chuchu"
 
